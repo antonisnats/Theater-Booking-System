@@ -1,0 +1,15 @@
+int Ntel=3;
+int Ncash =2;
+int CzoneA=30,CzoneB=20;
+int NzoneA=10,NzoneB=20,Nseat=10;
+float carderror=0;
+float seatserror=0;
+float succes=0;
+int Ncust;
+int Nseathigh =5;
+int Nseatlow =1;
+int tseatlow=5,tseathigh=13;
+int treslow=1,treshigh=5;
+int tcashlow=4,tcashhigh=8;
+float PzoneA =0.3;
+float Pcardsucces= 0.9;
